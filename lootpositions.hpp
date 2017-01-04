@@ -1,3 +1,4 @@
+//Replace _x with loot category such as: CivillianUpperClass
 	class Land_Barn_W_02
 	{
 		table = "_x";
